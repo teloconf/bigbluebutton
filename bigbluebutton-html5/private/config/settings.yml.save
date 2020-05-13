@@ -85,10 +85,10 @@ public:
     enableNetworkMonitoring: false
     packetLostThreshold: 10
   kurento:
-    wsUrl: wss://sandozencuentros.com/bbb-webrtc-sfu
+    wsUrl: HOST
     chromeDefaultExtensionKey: akgoaoikmbmhcopjgakkcepdgdgkjfbc
     chromeDefaultExtensionLink: https://chrome.google.com/webstore/detail/bigbluebutton-screenshare/akgoaoikmbmhcopjgakkcepdgdgkjfbc
-    chromeExtensionKey: KEY
+wsUrl: wss://sandozencuentros.com/bbb-webrtc-sfu    chromeExtensionKey: KEY
     chromeExtensionLink: LINK
     chromeScreenshareSources:
     - window
