@@ -326,6 +326,7 @@
 @media only screen and (min-width: 40.063em) {
   .acorn-player.bigbluebutton .acorn-seek-slider {
     width: 65%;
+    order: 0;
   }
 }
 
